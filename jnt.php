@@ -4,7 +4,7 @@ $headers = array();
 $headers[] = 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Firefox/76.0';
 $headers[] = 'Content-Type: application/x-www-form-urlencoded';
 
-echo "J&T Tracking - By: @PierreAji\n";
+echo "J&T Tracking - By @PierreAji\n";
 echo "Masukan Nomor Resi: ";
 $resi = trim(fgets(STDIN));
 
