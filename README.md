@@ -5,6 +5,6 @@
 
 * git clone https://github.com/PierreAji/JNT/
 
-* cd JNT
+* cd jnt
 
 * php jnt.php
