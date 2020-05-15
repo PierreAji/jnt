@@ -1,11 +1,10 @@
 # J&T TRACE & TRACK
 
-* How to use : 
 
-pkg install php
+* pkg install php
 
-git clone https://github.com/PierreAji/JNT/
+* git clone https://github.com/PierreAji/JNT/
 
-cd JNT
+* cd JNT
 
-php jnt.php
+* php jnt.php
